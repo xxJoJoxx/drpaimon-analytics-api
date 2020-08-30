@@ -1,0 +1,24 @@
+{
+  "name": "drpaimon-analytics-api",
+  "version": "0.0.1",
+  "description": "API to track bot usage and discord channel help tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "discordbot",
+    "express",
+    "guild",
+    "management"
+  ],
+  "author": "xxJoJoxx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1",
+    "mongoose": "^5.10.2",
+    "nodemon": "^2.0.4"
+  }
+}
