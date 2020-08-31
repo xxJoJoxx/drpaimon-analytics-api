@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="./resources/bot.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">drpaimon-analytics-api</h3>
@@ -111,4 +111,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- References
+- <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
